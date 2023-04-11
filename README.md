@@ -9,7 +9,7 @@ Google One Tap SignIn Library in Jetpack Compose.
 Step-1: Add the below dependency in your app level module's `build.gradle` file:
 ```gradle
 dependencies {
-    implementation 'com.github.stevdza-san:OneTapCompose:1.0.0'
+    implementation 'com.github.codingbloom:OneTapCompose:1.0.0'
 }
 ```
 Step-2: Add repository in your `settings.gradle` file:
